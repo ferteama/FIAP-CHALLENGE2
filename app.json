@@ -21,7 +21,8 @@
           "photosPermission": "O app usa a galeria para anexar fotos do local da ocorrência.",
           "cameraPermission": "O app usa a câmera para registrar fotos do local da ocorrência."
         }
-      ]
+      ],
+      "expo-router"
     ]
   }
 }

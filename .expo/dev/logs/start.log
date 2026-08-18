@@ -37,3 +37,36 @@
 {"_e":"metro:client_log","_t":1786775682097,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
 {"_e":"metro:client_log","_t":1786775682112,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
 {"_e":"metro:client_log","_t":1786775691593,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
+{"_e":"root:init","_t":1787012771171,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1787012771187,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787012771222,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787012775879,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787012783457,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1787012800829,"atlas":false,"workers":10,"host":"::","port":8081}
+{"_e":"root:init","_t":1787012820698,"format":"v0-jsonl","version":"56.1.15"}
+{"_e":"env:mode","_t":1787012820698,"nodeEnv":"development","babelEnv":"development","mode":"development"}
+{"_e":"env:load","_t":1787012820701,"mode":"development","files":[],"env":{}}
+{"_e":"devserver:start","_t":1787012820949,"mode":"development","web":true,"baseUrl":"","asyncRoutes":false,"routerRoot":"../..\\..\\app","serverComponents":false,"serverActions":false,"serverRendering":false,"apiRoutes":false,"exporting":false}
+{"_e":"metro:config","_t":1787012821301,"serverRoot":"../..\\..","projectRoot":"../..\\..","exporting":false,"flags":{"autolinkingModuleResolution":false,"serverActions":false,"serverComponents":false,"reactCompiler":false,"optimizeGraph":false,"treeshaking":false,"logbox":false}}
+{"_e":"metro:instantiate","_t":1787012829379,"atlas":false,"workers":10,"host":"::","port":8081}
+{"_e":"metro:bundling:started","_t":1787012916569,"id":"1","platform":"web","environment":null,"entry":"index.js"}
+{"_e":"metro:bundling:progress","_t":1787012916570,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787012916574,"id":"1","progress":0,"total":1,"current":0}
+{"_e":"metro:bundling:progress","_t":1787012916675,"id":"1","progress":0.055748456790123455,"total":72,"current":17}
+{"_e":"metro:bundling:progress","_t":1787012916790,"id":"1","progress":0.0625,"total":80,"current":20}
+{"_e":"metro:bundling:progress","_t":1787012916892,"id":"1","progress":0.2088066312881014,"total":151,"current":69}
+{"_e":"metro:bundling:progress","_t":1787012916984,"id":"1","progress":0.21490285513793253,"total":151,"current":70}
+{"_e":"metro:bundling:progress","_t":1787012917087,"id":"1","progress":0.2438652644413961,"total":162,"current":80}
+{"_e":"metro:bundling:progress","_t":1787012917187,"id":"1","progress":0.4851365065221159,"total":201,"current":140}
+{"_e":"metro:bundling:progress","_t":1787012917288,"id":"1","progress":0.4851365065221159,"total":238,"current":162}
+{"_e":"metro:bundling:progress","_t":1787012917389,"id":"1","progress":0.501506457327136,"total":257,"current":182}
+{"_e":"metro:bundling:progress","_t":1787012917491,"id":"1","progress":0.7338163692655542,"total":279,"current":239}
+{"_e":"metro:bundling:progress","_t":1787012917601,"id":"1","progress":0.8587111111111111,"total":300,"current":278}
+{"_e":"metro:bundling:progress","_t":1787012917703,"id":"1","progress":0.8587111111111111,"total":330,"current":298}
+{"_e":"metro:bundling:progress","_t":1787012917806,"id":"1","progress":0.9588884290607471,"total":337,"current":330}
+{"_e":"metro:bundling:progress","_t":1787012917910,"id":"1","progress":0.9943423027229172,"total":353,"current":352}
+{"_e":"metro:bundling:done","_t":1787012918042,"id":"1","total":353,"ms":1473.0946}
+{"_e":"metro:client_log","_t":1787012918163,"level":"log","data":["Running application \"main\" with appParams:\n","{\"hydrate\": undefined, \"rootTag\": \"#root\"}","\nDevelopment-level warnings: ON.\nPerformance optimizations: OFF."]}
+{"_e":"metro:client_log","_t":1787012918182,"level":"warn","data":["\"shadow*\" style props are deprecated. Use \"boxShadow\"."]}
+{"_e":"metro:client_log","_t":1787012930044,"level":"warn","data":["props.pointerEvents is deprecated. Use style.pointerEvents"]}
+{"_e":"metro:client_log","_t":1787012947421,"level":"warn","data":["[expo-image-picker] `ImagePicker.MediaTypeOptions` have been deprecated. Use `ImagePicker.MediaType` or an array of `ImagePicker.MediaType` instead."]}
